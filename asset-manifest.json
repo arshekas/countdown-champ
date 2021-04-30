@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/countdown-champ/static/css/main.f1a3a8c8.chunk.css",
+    "main.js": "/countdown-champ/static/js/main.1896fd83.chunk.js",
+    "main.js.map": "/countdown-champ/static/js/main.1896fd83.chunk.js.map",
+    "runtime-main.js": "/countdown-champ/static/js/runtime-main.ee578286.js",
+    "runtime-main.js.map": "/countdown-champ/static/js/runtime-main.ee578286.js.map",
+    "static/js/2.47d2eb6e.chunk.js": "/countdown-champ/static/js/2.47d2eb6e.chunk.js",
+    "static/js/2.47d2eb6e.chunk.js.map": "/countdown-champ/static/js/2.47d2eb6e.chunk.js.map",
+    "index.html": "/countdown-champ/index.html",
+    "static/css/main.f1a3a8c8.chunk.css.map": "/countdown-champ/static/css/main.f1a3a8c8.chunk.css.map",
+    "static/js/2.47d2eb6e.chunk.js.LICENSE.txt": "/countdown-champ/static/js/2.47d2eb6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee578286.js",
+    "static/js/2.47d2eb6e.chunk.js",
+    "static/css/main.f1a3a8c8.chunk.css",
+    "static/js/main.1896fd83.chunk.js"
+  ]
+}
